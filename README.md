@@ -3,7 +3,7 @@
 1. Fork this repository
 2. Clone your fork
    ```
-   git clone https://github.com/babichgh/Hello-World.git
+   git clone https://github.com/[your_username]/Hello-World.git
    cd Hello-World
    ```
 3. Make changes
