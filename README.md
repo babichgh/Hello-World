@@ -10,5 +10,6 @@
    ```
    git add .
    git commit -m '[Commit name]'
+   git push
    ```
 4. Create a pull request
